@@ -106,5 +106,41 @@
     "price": "902.29",
     "category": "Music",
     "description": "Discover the shark-like agility of our Shirt, perfect for jubilant users"
+  },
+  {
+    "name": "Tasty Bronze Computer",
+    "price": "380.35",
+    "category": "Toys",
+    "description": "The Lourdes Pants is the latest in a series of spiteful products from Reynolds and Sons"
+  },
+  {
+    "name": "Fantastic Steel Soap",
+    "price": "266.29",
+    "category": "Home",
+    "description": "Tasty Car designed with Ceramic for scented performance"
+  },
+  {
+    "name": "Handcrafted Gold Gloves",
+    "price": "272.00",
+    "category": "Music",
+    "description": "Ergonomic Ball made with Ceramic for all-day low support"
+  },
+  {
+    "name": "Ergonomic Steel Hat",
+    "price": "38.69",
+    "category": "Movies",
+    "description": "Innovative Salad featuring favorable technology and Rubber construction"
+  },
+  {
+    "name": "Awesome Aluminum Soap",
+    "price": "532.59",
+    "category": "Movies",
+    "description": "Innovative Table featuring prime technology and Bronze construction"
+  },
+  {
+    "name": "Refined Cotton Keyboard",
+    "price": "267.29",
+    "category": "Toys",
+    "description": "Innovative Bike featuring agile technology and Rubber construction"
   }
 ]
