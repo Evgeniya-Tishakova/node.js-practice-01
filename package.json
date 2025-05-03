@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate": "node src/scripts/generateProducts.js",
     "get-total-price": "node src/scripts/getTotalPrice.js",
-    "getUniqueCategories": "node src/scripts/getUniqueCategories.js"
+    "getUniqueCategories": "node src/scripts/getUniqueCategories.js",
+    "group-products": "node src/scripts/groupProductsByCategories.js"
   },
   "keywords": [],
   "author": "Zhenya Tishakova <tishakovaevgeniya@gmail.com>",
